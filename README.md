@@ -1,6 +1,6 @@
 # Dipto Kumar Haldar — Version 2 Research Website
 
-A more editorial, research-lab-style version inspired by the visual language and information architecture of the reference RISE Research Lab site at h-gupta.com. The implementation is original and uses Dipto's supplied resume content.
+
 
 ## Run
 Open `index.html`, or run:
