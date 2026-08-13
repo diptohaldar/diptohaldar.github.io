@@ -604,7 +604,7 @@ footer {
 /* ── RESPONSIVE ── */
 @media (max-width: 768px) {
   .hero-inner { grid-template-columns: 1fr; }
-  .hero-avatar { width: 320px; height: 320px; font-size: 2.2rem; margin: 0 auto; order: -1; }
+  .hero-avatar { width: 100px; height: 100px; font-size: 2.2rem; margin: 0 auto; order: -1; }
   .about-grid { grid-template-columns: 1fr; }
   .contact-grid { grid-template-columns: 1fr; }
   .edu-card { flex-direction: column; }
